@@ -1,0 +1,3 @@
+Git Bash has a silly name. It's comprised of two parts:
+git: a version control tool we have a training mission about, and
+bash: a shell that runs commands once you type the name of a command and press <enter> on your keyboard.
